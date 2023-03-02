@@ -68,7 +68,7 @@
 }
 .gpt3__footer-links_div{
     display: flex;
-    justify-content: start;
+    justify-content: flex-start;
     flex-direction: column;
 }
 .gpt3__footer-links_div h4{
